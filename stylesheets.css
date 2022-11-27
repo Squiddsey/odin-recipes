@@ -1,2 +1,15 @@
 /* This is my stylesheet for my website! */
 
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800px;
+    text-align: center;
+    color: rgb(73, 70, 58);
+}
+
+.recipes{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800px;
+    text-align: center;
+    color: rgb(233, 141, 4);
+}
