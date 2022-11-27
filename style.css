@@ -1,16 +1,22 @@
 /* This is my stylesheet for my website! */
 
+body {
+    background-color: blanchedalmond;
+}
+
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 800px;
     text-align: center;
-    color: rgb(191, 209, 27);
-    background-color: rebeccapurple;
+    color: rgb(41, 38, 32);
+    
 }
 
 .recipes {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 800px;
-    text-align: center;
+    text-align: left;
     color: rgb(233, 141, 4);
 }
+
+
