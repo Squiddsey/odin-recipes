@@ -16,8 +16,15 @@ h1 {
 .headings{
     text-align: center;
     font-size: 24px;
-    color: steelblue;
+    color: rgb(191, 111, 163);
 }
+
+.top{
+    text-align: center;
+    font-size: 32px;
+    color: rgb(195, 71, 9);
+}
+
 .curryclass{
     text-align: center;
 }
